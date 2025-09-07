@@ -28,35 +28,41 @@
 
 ## 📌 Featured Projects  
 
-### 🌐 Portfolio  
-<a href="https://github.com/iftekharul01/Full-Stack-Dynamic-Portfolio-.git">
-  <img src="./images/portfolio.png" width="600" alt="Portfolio Project Screenshot"/>
-</a>  
-A dynamic Laravel portfolio website featuring responsive design, interactive sections, Google OAuth authentication, and easy management of professional achievements.  
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/iftekharul01/Full-Stack-Dynamic-Portfolio-.git">
+    <img src="./images/portfolio.png" width="250" alt="Portfolio Screenshot"/>
+    <br><b>🌐 Portfolio</b>
+  </a>
+  <p>A Laravel-based portfolio website with responsive design, Google OAuth, and interactive sections.</p>
+</td>
+<td align="center">
+  <a href="https://github.com/iftekharul01/digital_farmer_assistant_portal.git">
+    <img src="./images/krishok_portal.png" width="250" alt="Krishok Portal Screenshot"/>
+    <br><b>🌾 কৃষক পোর্টাল</b>
+  </a>
+  <p>Bangla-localized farmer portal with weather updates, tutorials, and market prices.</p>
+</td>
+</tr>
 
----
-
-### 🌾 কৃষক পোর্টাল (Digital Farmer Assistant Portal)  
-<a href="https://github.com/iftekharul01/digital_farmer_assistant_portal.git">
-  <img src="./images/krishok_portal.png" width="600" alt="Krishok Portal Screenshot"/>
-</a>  
-A Bangla-localized web app offering weather updates, news, tutorials, and market prices to empower farmers.  
-
----
-
-### 📱 On The Go  
-<a href="https://github.com/emtiaz1/on_the_go.git">
-  <img src="./images/on_the_go.png" width="600" alt="On The Go App Screenshot"/>
-</a>  
-A mobile app enabling users to share posts, locations, and alerts, fostering community-driven communication and exploration.  
-
----
-
-### 🍴 Restaurant Management System  
-<a href="https://www.figma.com/proto/wYyFCFqXRs3T5XcDA88O54/Page-1?node-id=3-13&p=f&t=9t6QWguVakLlSVBP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A13">
-  <img src="./images/restaurant_system.png" width="600" alt="Restaurant Management System Screenshot"/>
-</a>  
-A modern restaurant management system prototype with owner dashboard and customer interface, enabling seamless ordering, table tracking, and efficient service.  
+<tr>
+<td align="center">
+  <a href="https://github.com/emtiaz1/on_the_go.git">
+    <img src="./images/on_the_go.png" width="250" alt="On The Go Screenshot"/>
+    <br><b>📱 On The Go</b>
+  </a>
+  <p>Community-driven mobile app for sharing posts, locations, and alerts.</p>
+</td>
+<td align="center">
+  <a href="https://www.figma.com/proto/wYyFCFqXRs3T5XcDA88O54/Page-1?node-id=3-13&p=f">
+    <img src="./images/restaurant_system.png" width="250" alt="Restaurant System Screenshot"/>
+    <br><b>🍴 Restaurant System</b>
+  </a>
+  <p>Prototype with owner dashboard & customer interface for seamless ordering and service.</p>
+</td>
+</tr>
+</table>
 
 ---
 
