@@ -1,63 +1,67 @@
-# Hi there 👋, I'm Iftekharul Islam  
+<h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
+<h3 align="center">Final-year Computer Science and Engineering Student | Aspiring Data Scientist</h3>
 
-🎓 I’m a final-year **Computer Science and Engineering** student passionate about **Data Science** and **Artificial Intelligence**.  
-💡 My goal is to become a **Data Scientist** and apply data-driven solutions to solve real-world challenges.  
-📚 I also enjoy **teaching and sharing knowledge** to inspire others.  
+<p align="center">
+  🎓 Passionate about <b>Data Science</b> & <b>Artificial Intelligence</b> <br>
+  💡 My goal is to apply <b>data-driven solutions</b> to real-world challenges <br>
+  📚 I also enjoy <b>teaching and sharing knowledge</b> to inspire others
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack  
 
-### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,php" height="40" alt="programming" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="40" alt="web" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="database" />
+  <img src="https://skillicons.dev/icons?i=laravel,git,github,figma" height="40" alt="tools" />
+</p>
 
-### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### ⚙️ Frameworks & Tools  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Blynk](https://img.shields.io/badge/Blynk-23B9D2?style=for-the-badge&logo=blynk&logoColor=white)  
-
-### 🔌 IoT & Hardware  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-
-### 📊 Other Skills  
-- Artificial Intelligence / Machine Learning  
-- Data Visualization  
-- Cloud Technologies  
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png?f=webp&w=40" height="40" alt="arduino" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ESP32_logo.png" height="40" alt="esp32" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/blynk-282782.png?f=webp&w=40" height="40" alt="blynk" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-- 🌐 [**Portfolio**](https://github.com/iftekharul01/Full-Stack-Dynamic-Portfolio-.git)  
-  A dynamic Laravel portfolio website featuring responsive design, interactive sections, Google OAuth authentication, and easy management of professional achievements.  
+### 🌐 Portfolio  
+<a href="https://github.com/iftekharul01/Full-Stack-Dynamic-Portfolio-.git">
+  <img src="./images/portfolio.png" width="600" alt="Portfolio Project Screenshot"/>
+</a>  
+A dynamic Laravel portfolio website featuring responsive design, interactive sections, Google OAuth authentication, and easy management of professional achievements.  
 
-- 🌾 [**কৃষক পোর্টাল (Digital Farmer Assistant Portal)**](https://github.com/iftekharul01/digital_farmer_assistant_portal.git)  
-  A Bangla-localized web app offering weather updates, news, tutorials, and market prices to empower farmers.  
+---
 
-- 📱 [**On The Go**](https://github.com/emtiaz1/on_the_go.git)  
-  A mobile app enabling users to share posts, locations, and alerts, fostering community-driven communication and exploration.  
+### 🌾 কৃষক পোর্টাল (Digital Farmer Assistant Portal)  
+<a href="https://github.com/iftekharul01/digital_farmer_assistant_portal.git">
+  <img src="./images/krishok_portal.png" width="600" alt="Krishok Portal Screenshot"/>
+</a>  
+A Bangla-localized web app offering weather updates, news, tutorials, and market prices to empower farmers.  
 
-- 🍴 [**Restaurant Management System**](https://www.figma.com/proto/wYyFCFqXRs3T5XcDA88O54/Page-1?node-id=3-13&p=f&t=9t6QWguVakLlSVBP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A13)  
-  A modern restaurant management system prototype with owner dashboard and customer interface, enabling seamless ordering, table tracking, and efficient service.  
+---
+
+### 📱 On The Go  
+<a href="https://github.com/emtiaz1/on_the_go.git">
+  <img src="./images/on_the_go.png" width="600" alt="On The Go App Screenshot"/>
+</a>  
+A mobile app enabling users to share posts, locations, and alerts, fostering community-driven communication and exploration.  
+
+---
+
+### 🍴 Restaurant Management System  
+<a href="https://www.figma.com/proto/wYyFCFqXRs3T5XcDA88O54/Page-1?node-id=3-13&p=f&t=9t6QWguVakLlSVBP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A13">
+  <img src="./images/restaurant_system.png" width="600" alt="Restaurant Management System Screenshot"/>
+</a>  
+A modern restaurant management system prototype with owner dashboard and customer interface, enabling seamless ordering, table tracking, and efficient service.  
 
 ---
 
 ## 🎯 Current Focus  
+
 - 📊 **Final Year Project on Women Empowerment through E-commerce**  
 - ☁️ Expanding expertise in **Cloud Computing, AI, and Machine Learning**  
 
@@ -65,18 +69,25 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=iftekharul01&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftekharul01&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharul01&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iftekharul01&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftekharul01&show_icons=true&theme=tokyonight" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharul01&layout=compact&theme=tokyonight" height="150" alt="languages" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/iftekharulislam01/)  
-- 📧 Email: islam15-5308@diu.edu.bd  
-- 📷 [Instagram](https://www.instagram.com/iftekharul_islam_sahan_/)  
-- 🌍 [Facebook](https://www.facebook.com/iftekharul.islam01)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/iftekharulislam01/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:islam15-5308@diu.edu.bd"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" /></a>
+  <a href="https://www.instagram.com/iftekharul_islam_sahan_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.facebook.com/iftekharul.islam01"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" /></a>
+</p>
 
 ---
 
