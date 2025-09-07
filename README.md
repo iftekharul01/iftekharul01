@@ -1,6 +1,6 @@
 <!--- <p align="center">
   <img src="./images/banner.png" alt="Iftekharul Islam Banner" width="100%" />
-</p>---!>
+</p>--->
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
 <h3 align="center">Final-year Computer Science and Engineering Student | Aspiring Data Scientist</h3>
 
@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png?f=webp&w=40" height="40" alt="arduino" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ESP32_logo.png" height="40" alt="esp32" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/blynk-282782.png?f=webp&w=40" height="40" alt="blynk" />
 </p>
 
