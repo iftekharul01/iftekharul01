@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Iftekharul Islam Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
 <h3 align="center">Final-year Computer Science and Engineering Student | Aspiring Data Scientist</h3>
 
